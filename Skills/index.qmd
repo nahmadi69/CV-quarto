@@ -1,0 +1,42 @@
+---
+title: "Skills"
+---
+
+## Technical Skills
+
+### Programming
+- **R**: Report automation, data cleaning, visualization, Shiny apps  
+  Examples:  
+  - [Automate Report Generator](https://github.com/nahmadi69/Automate-report-generator.git)  
+  - [Data Cleaning](https://github.com/nahmadi69/Data-Cleaning.git)  
+  - [Shiny App](https://naser-ahmadi.shinyapps.io/Test-report) (Username: `Test`, Password: `123456`)  
+
+- **Stata**: Data cleaning and analysis  
+  Example: [STATA Code](https://github.com/nahmadi69/Stata-code.git)  
+
+- **Quarto**: Website and document creation  
+  Example: [Quarto Website](https://github.com/nahmadi69/My-CV.git)  
+
+---
+
+### Data Analysis
+- Statistical modeling  
+- Data wrangling and cleaning  
+- Survey design and analysis  
+- Clinical trial data analysis  
+- Sample size calculation  
+
+---
+
+### Visualization & Dashboards
+- **R Shiny**: Interactive dashboards  
+- **Power BI**: Business intelligence dashboards  
+- **ggplot2**: Advanced data visualizations  
+
+---
+
+## Languages
+- **English**: Fluent  
+- **Persian**: Native  
+- **Arabic**: Intermediate  
+- **Kurdish**: Intermediate  

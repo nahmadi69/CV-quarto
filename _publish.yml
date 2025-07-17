@@ -1,0 +1,9 @@
+- source: project
+  quarto-pub:
+    - id: 76d87376-d6d7-47b5-a24f-19a39ccdc80f
+      url: 'https://nahmadi69.quarto.pub/naser-ahmadi'
+    - id: c6b2e3f7-ef24-4257-8660-cded591b2095
+      url: 'https://nahmadi69.quarto.pub/naser-ahmadi'
+  netlify:
+    - id: ceeb8d0e-a702-49ca-9abf-6cb1ac2701f7
+      url: 'https://venerable-dieffenbachia-96c56f.netlify.app'

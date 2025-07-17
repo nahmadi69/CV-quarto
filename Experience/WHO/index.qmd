@@ -1,0 +1,27 @@
+---
+title: "World Health Organization"
+author: "Naser Ahmadi"
+date: ""
+categories: [Reaserch Center]
+image: "WHO.png"
+---
+
+ Accepted roster of consultancy  
+ NCD population based surveys
+ 
+ July 2024
+
+<img src="WHO.png" style="height: 30%; width: 30%; object-fit: contain" />
+
+<div style="text-align: justify">
+Accepted roster of consultancy 
+
+NCD population based surveys
+
+HQ/UCN/NCD/SMR Surveillance, Monitoring and Reporting
+
+July 2024
+
+</div>
+----
+
