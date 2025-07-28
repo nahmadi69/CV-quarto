@@ -12,16 +12,35 @@ image: "NCDRC logo.jpg"
 <img src="NCDRC.png" style="height: 30%; width: 30%; object-fit: contain" onclick="window.open('https://www.linkedin.com/company/ncdrc/?trk=public_profile_experience-item_profile-section-card_image-click&originalSubdomain=nl', 'blank');"/>
 
 <div style="text-align: justify">
-As a data analyst and scientist, I have developed and applied various data analysis skills in my projects, such as STEPS2021 and IQCAMP. Some of my main data analysis skills are:
+## Technical Competencies & Project Highlights
 
- * Data cleaning using R programming and STATA software: I use R programming to perform data cleaning tasks, such as transforming, filtering, merging, and reshaping data. I use packages such as dplyr, tidyr, lubridate, and stringr to manipulate data frames, dates, and strings. I also use STATA software to import, export, and manage data from different sources and formats.
- 
- * Data visualization using ggplot2 and plotly: I use ggplot2 package in R to create high-quality and customizable plots and charts that display the patterns and trends in the data. I use plotly package in R to create interactive and dynamic visualizations that allow users to explore the data in different ways.
- * Preparing automated report generators: I use R Markdown and knitr packages in R to create reproducible reports that combine code, results, and text. I use parameters, templates, and loops to automate the report generation process for different data sets and scenarios.
- 
- * Preparing statistical analysis for scientific papers: I use R programming and STATA software to conduct various statistical analyses for scientific papers, such as descriptive statistics, hypothesis testing, regression models, survival analysis, and mixed-effects models
- 
-I have used these data analysis skills in my projects as a main statistician. For example, in STEPS2021 and IQCAMP projects, I was involved in all stages of the survey study, from the design to the final report. I used R programming and STATA software to clean, analyze, and visualize the survey data. I also used R Markdown and knitr packages to create automated report generators that produced summary tables and graphs for each province. 
+My approach to data analysis is built on a foundation of rigor, reproducibility, and clear communication. I specialize in using modern tools to manage the entire data lifecycle, from initial cleaning to generating automated, publication-ready reports.
+
+### Data Wrangling & Statistical Programming
+
+I have extensive experience in transforming complex, raw datasets into clean, analysis-ready formats. My primary tools are **R** (leveraging packages like `` `dplyr` ``, `` `tidyr` ``, and `` `lubridate` ``) and **STATA**. This ensures data integrity and prepares the groundwork for robust statistical analysis.
+
+### Advanced Data Visualization
+
+I create compelling narratives from data by developing both static and interactive visualizations. I use **`ggplot2`** to produce high-quality, customizable plots for scientific publications and **`Plotly`** to build dynamic dashboards that allow stakeholders to explore the data for themselves.
+
+### Automated & Reproducible Reporting
+
+I am highly skilled in creating efficient, automated reporting systems using **R Markdown** and **`knitr`**. By parameterizing reports, I can automatically generate hundreds of customized outputs (e.g., for different regions or timeframes), ensuring consistency and saving significant time.
+
+### Scientific Statistical Analysis
+
+My work is grounded in sound statistical methodology. I conduct a wide range of analyses for scientific papers, including descriptive statistics, hypothesis testing, regression models, survival analysis, and mixed-effects models, using both **R** and **STATA**.
+
+---
+
+### Project Spotlight: Main Statistician for STEPS2021 & IQCAMP
+
+In my role as the main statistician for major national surveys like STEPS2021 and IQCAMP, I was responsible for the entire data pipeline. My key contributions included:
+
+* Leading the design, cleaning, and analysis of large-scale survey data.
+* Developing a fully automated reporting generator with **R Markdown** that produced tailored statistical summaries and visualizations for each province. This system provided critical, timely insights to stakeholders across the country.
+* Conducting the definitive statistical analyses that formed the basis of final reports and scientific publications.
 
 </div>
 ----

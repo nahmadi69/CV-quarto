@@ -22,32 +22,18 @@ about:
   #     href: "mailto:mail.Naserahmadi3002@gmail.com"
 ---
 
-<div style="text-align: center; margin-top: 1em; margin-bottom: 1em;">
-  <a href="https://scholar.google.com/citations?user=F9e09p4AAAAJ&hl=en" target="_blank">
-    Google Scholar
-  </a> |
-  <a href="https://www.linkedin.com/in/naser-ahmadi-9650a6169/" target="_blank">
-    LinkedIn
-  </a> |
-  <a href="https://www.researchgate.net/profile/Naser-Ahmadi-4" target="_blank">
-    ResearchGate
-  </a> |
-  <a href="https://github.com/nahmadi69" target="_blank">
-    GitHub
-  </a> |
-  <a href="mailto:mail.Naserahmadi3002@gmail.com">
-    Email
-  </a>
-</div>
+::: {style="text-align: center; margin-top: 1em; margin-bottom: 1em;"}
+<a href="https://scholar.google.com/citations?user=F9e09p4AAAAJ&hl=en" target="_blank"> Google Scholar </a> \| <a href="https://www.linkedin.com/in/naser-ahmadi-9650a6169/" target="_blank"> LinkedIn </a> \| <a href="https://www.researchgate.net/profile/Naser-Ahmadi-4" target="_blank"> ResearchGate </a> \| <a href="https://github.com/nahmadi69" target="_blank"> GitHub </a> \| <a href="mailto:mail.Naserahmadi3002@gmail.com"> Email </a>
+:::
 
 # **Naser Ahmadi**
 
 **Biostatistician and Data Analyst.**
 
-
-
 ::: {style="text-align: justify"}
-I am a public health data scientist with a master's degree in biostatistics from Shahid Beheshti University of Medical Sciences. I have more than 12 years of data analysis experience, of which 5 years are informal and more than 7 years are formal in the non-communicable diseases research center; I worked on national and international projects funded by the WHO and the Ministry of Health in Iran. I am skilled in R programming, data wrangling, statistical analysis, visualization, making dashboards using Shiny and Power BI, and reporting. I am also an expert in training and capacity-building on R and STATA.
+A seasoned Public Health Data Analyst with an MSc in Biostatistics and over 12 years of experience transforming complex data into actionable public health insights. My career is highlighted by more than seven years at the Non-communicable Diseases Research Center, where I played a key role in national and international projects funded by the World Health Organization (WHO) and Iran's Ministry of Health.
 
-I have many soft skills that make me a valuable team member and a good researcher. I have attention to detail, especially in data and values. I am a self-learner and I can quickly and independently learn new skills and tools. I am curious and eager to learn new things and expand my knowledge. I have good problem-solving skills and I love working with data. I enjoy finding patterns, trends, and insights from data that can inform decisions and actions. I am a team player and I enjoy collaborating with others. I value feedback and constructive criticism as opportunities to improve myself. I am eager for new challenges and experiences.
+My expertise lies in the complete data lifecycle: from meticulous data wrangling and advanced statistical analysis to creating compelling visualizations and interactive dashboards with R/Shiny and Power BI.
+
+Beyond my technical skills, I am a passionate educator and an expert in capacity-building, having designed and delivered professional training on R and STATA. I am a collaborative, detail-oriented problem-solver, eager to apply my skills to new challenges and contribute to data-driven decision-making in the health sector.
 :::
