@@ -1,66 +1,73 @@
 [
   {
-    "objectID": "test quarto.html",
-    "href": "test quarto.html",
-    "title": "Untitled",
+    "objectID": "Skills/index.html",
+    "href": "Skills/index.html",
+    "title": "Skills",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "R: Report automation, data cleaning, visualization, Shiny apps\nExamples:\n\nAutomate Report Generator\n\nData Cleaning\n\nShiny App (Username: Test, Password: 123456)\n\nStata: Data cleaning and analysis\nExample: STATA Code\nQuarto: Website and document creation\nExample: Quarto Website\n\n\n\n\n\n\nStatistical modeling\n\nData wrangling and cleaning\n\nSurvey design and analysis\n\nClinical trial data analysis\n\nSample size calculation\n\n\n\n\n\n\nR Shiny: Interactive dashboards\n\nPower BI: Business intelligence dashboards\n\nggplot2: Advanced data visualizations"
   },
   {
-    "objectID": "test quarto.html#meet-quarto",
-    "href": "test quarto.html#meet-quarto",
-    "title": "Untitled",
+    "objectID": "Skills/index.html#technical-skills",
+    "href": "Skills/index.html#technical-skills",
+    "title": "Skills",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "R: Report automation, data cleaning, visualization, Shiny apps\nExamples:\n\nAutomate Report Generator\n\nData Cleaning\n\nShiny App (Username: Test, Password: 123456)\n\nStata: Data cleaning and analysis\nExample: STATA Code\nQuarto: Website and document creation\nExample: Quarto Website\n\n\n\n\n\n\nStatistical modeling\n\nData wrangling and cleaning\n\nSurvey design and analysis\n\nClinical trial data analysis\n\nSample size calculation\n\n\n\n\n\n\nR Shiny: Interactive dashboards\n\nPower BI: Business intelligence dashboards\n\nggplot2: Advanced data visualizations"
   },
   {
-    "objectID": "test quarto.html#meet-the-penguins",
-    "href": "test quarto.html#meet-the-penguins",
-    "title": "Untitled",
-    "section": "Meet the penguins",
-    "text": "Meet the penguins\n\nThe penguins data from the palmerpenguins package contains size measurements for 344 penguins from three species observed on three islands in the Palmer Archipelago, Antarctica.\nThe plot below shows the relationship between flipper and bill lengths of these penguins.\n\nThis content can be styled with a border\n\n\n\n\n\n\n\n\n\n\n\n\n\nElephant\n\n\n[![Elephant](elephant.png)](https://en.wikipedia.org/wiki/Elephant)"
+    "objectID": "Skills/index.html#languages",
+    "href": "Skills/index.html#languages",
+    "title": "Skills",
+    "section": "Languages",
+    "text": "Languages\n\nEnglish: Fluent\n\nPersian: Native\n\nArabic: Intermediate\n\nKurdish: Intermediate"
   },
   {
-    "objectID": "recomendation/index.html",
-    "href": "recomendation/index.html",
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Naser Ahmadi",
     "section": "",
-    "text": "Download this recomendation file"
+    "text": "COVID-19 Epidemiological Study: A report to the World Health Organization\n\n\n\n\n\n\nFunded by WHO\n\n\n\n\n\n\n\n\n\nNaser Ahmadi\n\n\n\n\n\n\n\n\n\n\n\n\nIraPEN Program Cost Analysis\n\n\n\n\n\n\nFunded by WHO\n\n\n\n\n\n\n\n\n\nNaser Ahmadi\n\n\n\n\n\n\n\n\n\n\n\n\nIran Quality of Care in Medicine Program (IQCAMP)\n\n\n\n\n\n\nFunded by MoH\n\n\n\n\n\n\n\n\n\nNaser Ahmadi\n\n\n\n\n\n\n\n\n\n\n\n\nSTEPwise approach to NCD risk factor surveillance (STEPS) 2021\n\n\n\n\n\n\nFunded by MoH\n\n\n\n\n\n\n\n\n\nNaser Ahmadi\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "recomendation/index.html#recomendation-letter-by-professor-farshad-farzadfar",
-    "href": "recomendation/index.html#recomendation-letter-by-professor-farshad-farzadfar",
+    "objectID": "projects/IraPEN/index.html",
+    "href": "projects/IraPEN/index.html",
+    "title": "IraPEN Program Cost Analysis",
+    "section": "",
+    "text": "December 2017\n\n\nWorld-Health-Organization’s PEN package proposes a minimum set of cost-effective interventions for early diagnosis and management of Non-Communicable-Disease (NCD). IraPEN (the PEN package implemented in Iran), adopted from PEN and Iran National Action Plans for NCDs, addresses challenges regarding NCD prevention and control. IraPEN was piloted in four districts of Iran. In this research, we estimate incremental per-capita cost of IraPEN program implementation in two of the pilot districts. you can see the result of this study in this link:\n\nThe incremental cost of implementing the world health organization Package of essential non-communicable (PEN) diseases interventions in Iran"
+  },
+  {
+    "objectID": "projects/Covid/index.html",
+    "href": "projects/Covid/index.html",
+    "title": "COVID-19 Epidemiological Study: A report to the World Health Organization",
+    "section": "",
+    "text": "December 2021\n\n\nIn the present study, we aimed to assess the epidemiology of hospitalized COVID-19 patients in Iran and to prepare a comprehensive report of all COVID-19 patients in Iran that were admitted to the hospitals from the beginning of the outbreak until June 2021. We aim for this report to be of use to Iran’s health policymakers. We used Iran’s COVID-19 registration system through hospital portal. Our data covered almost 16 months in the pandemic and included over 1.5 million registered COVID-19 patients with their demographics, previous histories, and their disease outcomes."
+  },
+  {
+    "objectID": "Experience.html",
+    "href": "Experience.html",
     "title": "Naser Ahmadi",
     "section": "",
-    "text": "Download this recomendation file"
+    "text": "Non-Communicable Diseases Research Center\n\n\n\n\n\n\nReaserch Center\n\n\n\n\n\n\n\n\n\nNaser Ahmadi\n\n\n\n\n\n\n\n\n\n\n\n\nWorld Health Organization\n\n\n\n\n\n\nReaserch Center\n\n\n\n\n\n\n\n\n\nNaser Ahmadi\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/STEPS/index.html",
-    "href": "projects/STEPS/index.html",
-    "title": "STEPwise approach to NCD risk factor surveillance (STEPS) 2021",
+    "objectID": "Experience/NCDRC/index.html",
+    "href": "Experience/NCDRC/index.html",
+    "title": "Non-Communicable Diseases Research Center",
     "section": "",
-    "text": "June 2022\n\n\n“Surveillance of Risk Factors of Non-communicable Disease in Iran (STEPs)” is a large-scale cross-sectional study that measures risk factors of non-communicable diseases in Iran. STEPs surveys, in 2016 and 2021 have been implemented by NCDRC. As a senior statistician, I was involved in most parts of this study in 2021 including Study design (sample size, sampling, software design, questionnaire design, data collection plan, and quality control) conceptualizing, cleaning, analyzing, visualizing reporting, writing research articles, and documentation\n\nStudy Protocol"
+    "text": "Senior Biostatistician July 2017- Until now"
   },
   {
-    "objectID": "projects/IQCAMP/index.html",
-    "href": "projects/IQCAMP/index.html",
-    "title": "Iran Quality of Care in Medicine Program (IQCAMP)",
-    "section": "",
-    "text": "July 2021\n\n\nIran Quality of Care in Medicine Program (IQCAMP) is a national pilot project aimed to evaluate the quality and cost of care for seven diseases with a high burden in Iran and around the globe. They are myocardial infarction, ischemic stroke, congestive heart failure, chronic obstructive pulmonary disease, end-stage renal disease, major depression disorder, and diabetes mellitus. A cohort of about 300 patients was deemed to be sampled and followed up for three to six months. in this study I was a main statistician and my duty is cleaning the data and preparing the result. you can see the result of this study:\n\nQuality and cost of healthcare services in patients with diabetes in Iran: Results of a nationwide short-term longitudinal survey"
+    "objectID": "Experience/NCDRC/index.html#technical-competencies-project-highlights",
+    "href": "Experience/NCDRC/index.html#technical-competencies-project-highlights",
+    "title": "Non-Communicable Diseases Research Center",
+    "section": "Technical Competencies & Project Highlights",
+    "text": "Technical Competencies & Project Highlights\nMy approach to data analysis is built on a foundation of rigor, reproducibility, and clear communication. I specialize in using modern tools to manage the entire data lifecycle, from initial cleaning to generating automated, publication-ready reports.\n\nData Wrangling & Statistical Programming\nI have extensive experience in transforming complex, raw datasets into clean, analysis-ready formats. My primary tools are R (leveraging packages like `dplyr`, `tidyr`, and `lubridate`) and STATA. This ensures data integrity and prepares the groundwork for robust statistical analysis.\n\n\nAdvanced Data Visualization\nI create compelling narratives from data by developing both static and interactive visualizations. I use ggplot2 to produce high-quality, customizable plots for scientific publications and Plotly to build dynamic dashboards that allow stakeholders to explore the data for themselves.\n\n\nAutomated & Reproducible Reporting\nI am highly skilled in creating efficient, automated reporting systems using R Markdown and knitr. By parameterizing reports, I can automatically generate hundreds of customized outputs (e.g., for different regions or timeframes), ensuring consistency and saving significant time.\n\n\nScientific Statistical Analysis\nMy work is grounded in sound statistical methodology. I conduct a wide range of analyses for scientific papers, including descriptive statistics, hypothesis testing, regression models, survival analysis, and mixed-effects models, using both R and STATA.\n\n\n\nProject Spotlight: Main Statistician for STEPS2021 & IQCAMP\nIn my role as the main statistician for major national surveys like STEPS2021 and IQCAMP, I was responsible for the entire data pipeline. My key contributions included:\n\nLeading the design, cleaning, and analysis of large-scale survey data.\nDeveloping a fully automated reporting generator with R Markdown that produced tailored statistical summaries and visualizations for each province. This system provided critical, timely insights to stakeholders across the country.\nConducting the definitive statistical analyses that formed the basis of final reports and scientific publications."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Naser Ahmadi",
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
     "section": "",
-    "text": "Google Scholar  |  LinkedIn  |  ResearchGate  |  GitHub  |  Email \n\n\nNaser Ahmadi\nBiostatistician and Data Analyst.\n\nA seasoned Public Health Data Analyst with an MSc in Biostatistics and over 12 years of experience transforming complex data into actionable public health insights. My career is highlighted by more than seven years at the Non-communicable Diseases Research Center, where I played a key role in national and international projects funded by the World Health Organization (WHO) and Iran’s Ministry of Health.\nMy expertise lies in the complete data lifecycle: from meticulous data wrangling and advanced statistical analysis to creating compelling visualizations and interactive dashboards with R/Shiny and Power BI.\nBeyond my technical skills, I am a passionate educator and an expert in capacity-building, having designed and delivered professional training on R and STATA. I am a collaborative, detail-oriented problem-solver, eager to apply my skills to new challenges and contribute to data-driven decision-making in the health sector."
-  },
-  {
-    "objectID": "Experience/WHO/index.html",
-    "href": "Experience/WHO/index.html",
-    "title": "World Health Organization",
-    "section": "",
-    "text": "Accepted roster of consultancy\nNCD population based surveys\nJuly 2024\n\n\nAccepted roster of consultancy\nNCD population based surveys\nHQ/UCN/NCD/SMR Surveillance, Monitoring and Reporting\nJuly 2024"
+    "text": "Download my CV"
   },
   {
     "objectID": "Education/index.html",
@@ -91,73 +98,45 @@
     "text": "Papers\nI have published more than 70 scientific papers, which are available on my Google Scholar profile.\nMy Google Scholar profile"
   },
   {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum vitae",
+    "objectID": "Experience/WHO/index.html",
+    "href": "Experience/WHO/index.html",
+    "title": "World Health Organization",
     "section": "",
-    "text": "Download my CV"
+    "text": "Accepted roster of consultancy\nNCD population based surveys\nJuly 2024\n\n\nAccepted roster of consultancy\nNCD population based surveys\nHQ/UCN/NCD/SMR Surveillance, Monitoring and Reporting\nJuly 2024"
   },
   {
-    "objectID": "Experience/NCDRC/index.html",
-    "href": "Experience/NCDRC/index.html",
-    "title": "Non-Communicable Diseases Research Center",
-    "section": "",
-    "text": "Senior Biostatistician July 2017- Until now"
-  },
-  {
-    "objectID": "Experience.html",
-    "href": "Experience.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Naser Ahmadi",
     "section": "",
-    "text": "Non-Communicable Diseases Research Center\n\n\n\n\n\n\nReaserch Center\n\n\n\n\n\n\n\n\n\nNaser Ahmadi\n\n\n\n\n\n\n\n\n\n\n\n\nWorld Health Organization\n\n\n\n\n\n\nReaserch Center\n\n\n\n\n\n\n\n\n\nNaser Ahmadi\n\n\n\n\n\n\nNo matching items"
+    "text": "Google Scholar  |  LinkedIn  |  ResearchGate  |  GitHub  |  Email \n\n\nNaser Ahmadi\nBiostatistician and Data Analyst.\n\nA seasoned Public Health Data Analyst with an MSc in Biostatistics and over 12 years of experience transforming complex data into actionable public health insights. My career is highlighted by more than seven years at the Non-communicable Diseases Research Center, where I played a key role in national and international projects funded by the World Health Organization (WHO) and Iran’s Ministry of Health.\nMy expertise lies in the complete data lifecycle: from meticulous data wrangling and advanced statistical analysis to creating compelling visualizations and interactive dashboards with R/Shiny and Power BI.\nBeyond my technical skills, I am a passionate educator and an expert in capacity-building, having designed and delivered professional training on R and STATA. I am a collaborative, detail-oriented problem-solver, eager to apply my skills to new challenges and contribute to data-driven decision-making in the health sector."
   },
   {
-    "objectID": "projects/Covid/index.html",
-    "href": "projects/Covid/index.html",
-    "title": "COVID-19 Epidemiological Study: A report to the World Health Organization",
+    "objectID": "projects/IQCAMP/index.html",
+    "href": "projects/IQCAMP/index.html",
+    "title": "Iran Quality of Care in Medicine Program (IQCAMP)",
     "section": "",
-    "text": "December 2021\n\n\nIn the present study, we aimed to assess the epidemiology of hospitalized COVID-19 patients in Iran and to prepare a comprehensive report of all COVID-19 patients in Iran that were admitted to the hospitals from the beginning of the outbreak until June 2021. We aim for this report to be of use to Iran’s health policymakers. We used Iran’s COVID-19 registration system through hospital portal. Our data covered almost 16 months in the pandemic and included over 1.5 million registered COVID-19 patients with their demographics, previous histories, and their disease outcomes."
+    "text": "July 2021\n\n\nIran Quality of Care in Medicine Program (IQCAMP) is a national pilot project aimed to evaluate the quality and cost of care for seven diseases with a high burden in Iran and around the globe. They are myocardial infarction, ischemic stroke, congestive heart failure, chronic obstructive pulmonary disease, end-stage renal disease, major depression disorder, and diabetes mellitus. A cohort of about 300 patients was deemed to be sampled and followed up for three to six months. in this study I was a main statistician and my duty is cleaning the data and preparing the result. you can see the result of this study:\n\nQuality and cost of healthcare services in patients with diabetes in Iran: Results of a nationwide short-term longitudinal survey"
   },
   {
-    "objectID": "projects/IraPEN/index.html",
-    "href": "projects/IraPEN/index.html",
-    "title": "IraPEN Program Cost Analysis",
+    "objectID": "projects/STEPS/index.html",
+    "href": "projects/STEPS/index.html",
+    "title": "STEPwise approach to NCD risk factor surveillance (STEPS) 2021",
     "section": "",
-    "text": "December 2017\n\n\nWorld-Health-Organization’s PEN package proposes a minimum set of cost-effective interventions for early diagnosis and management of Non-Communicable-Disease (NCD). IraPEN (the PEN package implemented in Iran), adopted from PEN and Iran National Action Plans for NCDs, addresses challenges regarding NCD prevention and control. IraPEN was piloted in four districts of Iran. In this research, we estimate incremental per-capita cost of IraPEN program implementation in two of the pilot districts. you can see the result of this study in this link:\n\nThe incremental cost of implementing the world health organization Package of essential non-communicable (PEN) diseases interventions in Iran"
+    "text": "June 2022\n\n\n“Surveillance of Risk Factors of Non-communicable Disease in Iran (STEPs)” is a large-scale cross-sectional study that measures risk factors of non-communicable diseases in Iran. STEPs surveys, in 2016 and 2021 have been implemented by NCDRC. As a senior statistician, I was involved in most parts of this study in 2021 including Study design (sample size, sampling, software design, questionnaire design, data collection plan, and quality control) conceptualizing, cleaning, analyzing, visualizing reporting, writing research articles, and documentation\n\nStudy Protocol"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
+    "objectID": "recomendation/index.html",
+    "href": "recomendation/index.html",
     "title": "Naser Ahmadi",
     "section": "",
-    "text": "COVID-19 Epidemiological Study: A report to the World Health Organization\n\n\n\n\n\n\nFunded by WHO\n\n\n\n\n\n\n\n\n\nNaser Ahmadi\n\n\n\n\n\n\n\n\n\n\n\n\nIraPEN Program Cost Analysis\n\n\n\n\n\n\nFunded by WHO\n\n\n\n\n\n\n\n\n\nNaser Ahmadi\n\n\n\n\n\n\n\n\n\n\n\n\nIran Quality of Care in Medicine Program (IQCAMP)\n\n\n\n\n\n\nFunded by MoH\n\n\n\n\n\n\n\n\n\nNaser Ahmadi\n\n\n\n\n\n\n\n\n\n\n\n\nSTEPwise approach to NCD risk factor surveillance (STEPS) 2021\n\n\n\n\n\n\nFunded by MoH\n\n\n\n\n\n\n\n\n\nNaser Ahmadi\n\n\n\n\n\n\nNo matching items"
+    "text": "Download this recomendation file"
   },
   {
-    "objectID": "Skills/index.html",
-    "href": "Skills/index.html",
-    "title": "Skills",
+    "objectID": "recomendation/index.html#recomendation-letter-by-professor-farshad-farzadfar",
+    "href": "recomendation/index.html#recomendation-letter-by-professor-farshad-farzadfar",
+    "title": "Naser Ahmadi",
     "section": "",
-    "text": "R: Report automation, data cleaning, visualization, Shiny apps\nExamples:\n\nAutomate Report Generator\n\nData Cleaning\n\nShiny App (Username: Test, Password: 123456)\n\nStata: Data cleaning and analysis\nExample: STATA Code\nQuarto: Website and document creation\nExample: Quarto Website\n\n\n\n\n\n\nStatistical modeling\n\nData wrangling and cleaning\n\nSurvey design and analysis\n\nClinical trial data analysis\n\nSample size calculation\n\n\n\n\n\n\nR Shiny: Interactive dashboards\n\nPower BI: Business intelligence dashboards\n\nggplot2: Advanced data visualizations"
-  },
-  {
-    "objectID": "Skills/index.html#technical-skills",
-    "href": "Skills/index.html#technical-skills",
-    "title": "Skills",
-    "section": "",
-    "text": "R: Report automation, data cleaning, visualization, Shiny apps\nExamples:\n\nAutomate Report Generator\n\nData Cleaning\n\nShiny App (Username: Test, Password: 123456)\n\nStata: Data cleaning and analysis\nExample: STATA Code\nQuarto: Website and document creation\nExample: Quarto Website\n\n\n\n\n\n\nStatistical modeling\n\nData wrangling and cleaning\n\nSurvey design and analysis\n\nClinical trial data analysis\n\nSample size calculation\n\n\n\n\n\n\nR Shiny: Interactive dashboards\n\nPower BI: Business intelligence dashboards\n\nggplot2: Advanced data visualizations"
-  },
-  {
-    "objectID": "Skills/index.html#languages",
-    "href": "Skills/index.html#languages",
-    "title": "Skills",
-    "section": "Languages",
-    "text": "Languages\n\nEnglish: Fluent\n\nPersian: Native\n\nArabic: Intermediate\n\nKurdish: Intermediate"
-  },
-  {
-    "objectID": "Experience/NCDRC/index.html#technical-competencies-project-highlights",
-    "href": "Experience/NCDRC/index.html#technical-competencies-project-highlights",
-    "title": "Non-Communicable Diseases Research Center",
-    "section": "Technical Competencies & Project Highlights",
-    "text": "Technical Competencies & Project Highlights\nMy approach to data analysis is built on a foundation of rigor, reproducibility, and clear communication. I specialize in using modern tools to manage the entire data lifecycle, from initial cleaning to generating automated, publication-ready reports.\n\nData Wrangling & Statistical Programming\nI have extensive experience in transforming complex, raw datasets into clean, analysis-ready formats. My primary tools are R (leveraging packages like `dplyr`, `tidyr`, and `lubridate`) and STATA. This ensures data integrity and prepares the groundwork for robust statistical analysis.\n\n\nAdvanced Data Visualization\nI create compelling narratives from data by developing both static and interactive visualizations. I use ggplot2 to produce high-quality, customizable plots for scientific publications and Plotly to build dynamic dashboards that allow stakeholders to explore the data for themselves.\n\n\nAutomated & Reproducible Reporting\nI am highly skilled in creating efficient, automated reporting systems using R Markdown and knitr. By parameterizing reports, I can automatically generate hundreds of customized outputs (e.g., for different regions or timeframes), ensuring consistency and saving significant time.\n\n\nScientific Statistical Analysis\nMy work is grounded in sound statistical methodology. I conduct a wide range of analyses for scientific papers, including descriptive statistics, hypothesis testing, regression models, survival analysis, and mixed-effects models, using both R and STATA.\n\n\n\nProject Spotlight: Main Statistician for STEPS2021 & IQCAMP\nIn my role as the main statistician for major national surveys like STEPS2021 and IQCAMP, I was responsible for the entire data pipeline. My key contributions included:\n\nLeading the design, cleaning, and analysis of large-scale survey data.\nDeveloping a fully automated reporting generator with R Markdown that produced tailored statistical summaries and visualizations for each province. This system provided critical, timely insights to stakeholders across the country.\nConducting the definitive statistical analyses that formed the basis of final reports and scientific publications."
+    "text": "Download this recomendation file"
   }
 ]
